@@ -8,6 +8,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=yujiyamamoto64&label=Profile%20views&color=0e75b6&style=flat" alt="yujiyamamoto64" /> </p>
 
 - 🔭 I’m currently working on [E-Commerce System](https://github.com/yujiyamamoto64/market7)
+and continuously improving my java skill at HackerRank(https://github.com/yujiyamamoto64/hackerrank/commits/main)
 
 - 🌱 I’m currently learning **Spring stack, Docker and so on**
 
