@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Yuji Yamamoto</h1>
-<h3 align="center">A passionate java backend developer from Brazil</h3>
+<h3 align="center">Java Developer</h3>
 
 <img align="right" alt="Coding" width="350" src="https://www.creare.co.uk/wp-content/uploads/2015/04/furious-crazed-typing.gif">
 
@@ -10,7 +10,7 @@
 - 🔭 I’m currently working on [E-Commerce System](https://github.com/yujiyamamoto64/market7)
 and continuously improving my java skill at HackerRank(https://github.com/yujiyamamoto64/hackerrank/commits/main)
 
-- 🌱 I’m currently learning **Spring stack, Docker and so on**
+- 🌱 I’m currently learning **Java, Spring framework and DevOps tools**
 
 - 💬 Ask me about **Java**
 
