@@ -1,31 +1,61 @@
 <h1 align="center">Hi 👋, I'm Yuji Yamamoto</h1>
-<h3 align="center">Java Developer</h3>
+<h3 align="center">DEV | JAVA | SPRING | QUARKUS | FLUTTER</h3>
 
-<img align="right" alt="Coding" width="350" src="https://www.creare.co.uk/wp-content/uploads/2015/04/furious-crazed-typing.gif">
-
-
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=yujiyamamoto64&label=Profile%20views&color=0e75b6&style=flat" alt="yujiyamamoto64" /> </p>
-
-- 🔭 I’m currently working on [E-Commerce System](https://github.com/yujiyamamoto64/market7)
-and continuously improving my java skill at HackerRank(https://github.com/yujiyamamoto64/hackerrank/commits/main)
-
-- 🌱 I’m currently learning **Java, Spring framework and DevOps tools**
-
-- 💬 Ask me about **Java**
-
-- 📫 How to reach me **yujiyamamoto64@gmail.com**
-
-- ⚡ Fun fact **I am also a Full Stack, over flow. And i am Back End and also Week End :)**
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://www.linkedin.com/in/yujiyamamoto64/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/yujiyamamoto64/" height="30" width="40" /></a>
-<a href="https://www.hackerrank.com/yujiyamamoto64" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerearth.svg" alt="@yujiyamamoto64" height="30" width="40" /></a>
+<p align="center">
+  <img src="https://media.giphy.com/media/13HgwGsXF0aiGY/giphy.gif" width="300" />
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://heroku.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/heroku/heroku-icon.svg" alt="heroku" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://spring.io/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="spring" width="40" height="40"/> </a> </p>
+---
 
+### 🚀 About Me
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=yujiyamamoto64&" alt="yujiyamamoto64" /></p>
+- 💼 Currently working on **financial systems** and a **task management platform
+  (Kanban-style)**
+- 🌱 Continuously improving my Java skills and backend architecture, also
+  practicing on
+  [HackerRank](https://github.com/yujiyamamoto64/hackerrank/commits/main)
+- 📚 Learning more about **Spring Framework**, **DevOps tools**, and clean
+  software architecture
+- 💬 Ask me anything about Java, Spring or backend best practices!
+- 📫 Reach me at: [yujiyamamoto64@gmail.com](mailto:yujiyamamoto64@gmail.com)
+- ⚡ Fun fact: besides back end i am also WEEKEND
+
+---
+
+### 🧰 Tech Stack
+
+<p>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="40" alt="Java"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" width="40" alt="Spring"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/quarkus/quarkus-original.svg" width="40" alt="Quarkus"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apachekafka/apachekafka-original.svg" width="40" alt="Kafka"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" width="40" alt="Flutter"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dart/dart-original.svg" width="40" alt="Dart"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="40" alt="Docker"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kubernetes/kubernetes-plain.svg" width="40" alt="Kubernetes"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="40" alt="PostgreSQL"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="40" alt="MySQL"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" width="40" alt="MongoDB"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redis/redis-original.svg" width="40" alt="Redis"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/aws/aws-original.svg" width="40" alt="AWS"/>
+</p>
+
+---
+
+### 🤝 Connect with Me
+
+<p>
+  <a href="https://www.linkedin.com/in/yujiyamamoto64/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="https://www.hackerrank.com/yujiyamamoto64" target="_blank">
+    <img src="https://img.shields.io/badge/HackerRank-2EC866?style=flat&logo=hackerrank&logoColor=white" />
+  </a>
+  <a href="https://github.com/yujiyamamoto64" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white" />
+  </a>
+</p>
+
+---
+
+![Profile views](https://komarev.com/ghpvc/?username=yujiyamamoto64&style=flat-square)
